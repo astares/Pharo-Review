@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "TorstenBergmann 5/29/2017 00:16",
+	"super" : "TestCase",
+	"category" : "Pharo-Kernel-Core-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Pharo::ObjectTest",
+	"type" : "normal"
+}
