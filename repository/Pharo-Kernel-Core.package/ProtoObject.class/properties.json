@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "TorstenBergmann 5/29/2017 00:07",
-	"super" : "Pharo::ProtoObject",
+	"commentStamp" : "TorstenBergmann 5/29/2017 00:35",
+	"super" : "ProtoObject",
 	"category" : "Pharo-Kernel-Core",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "Pharo::Object",
+	"name" : "Pharo::ProtoObject",
 	"type" : "normal"
 }
