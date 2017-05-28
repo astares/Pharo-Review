@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "TorstenBergmann 5/29/2017 00:11",
 	"super" : "Pharo::Boolean",
-	"category" : "Pharo-Kernel-Core",
+	"category" : "Pharo-Kernel-Core-Booleans",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

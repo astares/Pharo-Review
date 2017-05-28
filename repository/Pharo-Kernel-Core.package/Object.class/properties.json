@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "TorstenBergmann 5/29/2017 00:07",
 	"super" : "Pharo::ProtoObject",
-	"category" : "Pharo-Kernel-Core",
+	"category" : "Pharo-Kernel-Core-Objects",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

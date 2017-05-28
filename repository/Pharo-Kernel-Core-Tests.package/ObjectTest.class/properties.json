@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "TorstenBergmann 5/29/2017 00:40",
 	"super" : "TestCase",
-	"category" : "Pharo-Kernel-Core-Tests",
+	"category" : "Pharo-Kernel-Core-Tests-Objects",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
